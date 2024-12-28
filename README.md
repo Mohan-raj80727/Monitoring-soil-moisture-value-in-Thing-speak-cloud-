@@ -1,3 +1,5 @@
+# NAME: MOHAN RAJ.S
+# REGISTER NO: 24901224
 # Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
